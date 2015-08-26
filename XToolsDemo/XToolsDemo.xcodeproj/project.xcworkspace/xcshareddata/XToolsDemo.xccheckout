@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AF8D5C6D-4021-4E03-887A-ADBBB2CB5F34</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XToolsDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>44460E56B6174F27D0CCC9F0F072D82BB09C5943</key>
+		<string>https://github.com/mail2chensh/XTools</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XToolsDemo/XToolsDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>44460E56B6174F27D0CCC9F0F072D82BB09C5943</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mail2chensh/XTools</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>44460E56B6174F27D0CCC9F0F072D82BB09C5943</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44460E56B6174F27D0CCC9F0F072D82BB09C5943</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XTools</string>
+		</dict>
+	</array>
+</dict>
+</plist>
