@@ -29,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D7E3C5041B8D6F250094D06B /* XToolsMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XToolsMacro.h; sourceTree = "<group>"; };
 		D7EFB3D21B8C672100CFCFA9 /* XToolsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XToolsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7EFB3D61B8C672100CFCFA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D7EFB3D71B8C672100CFCFA9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -66,6 +67,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D7E3C5031B8D6F250094D06B /* Macro */ = {
+			isa = PBXGroup;
+			children = (
+				D7E3C5041B8D6F250094D06B /* XToolsMacro.h */,
+			);
+			path = Macro;
+			sourceTree = "<group>";
+		};
 		D7EFB3C91B8C672100CFCFA9 = {
 			isa = PBXGroup;
 			children = (
@@ -129,6 +138,7 @@
 		D7EFB3FB1B8C674100CFCFA9 /* XTools */ = {
 			isa = PBXGroup;
 			children = (
+				D7E3C5031B8D6F250094D06B /* Macro */,
 				D7EFB3FC1B8C674F00CFCFA9 /* Categorys */,
 			);
 			name = XTools;
@@ -445,6 +455,7 @@
 				D7EFB3F71B8C672100CFCFA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D7EFB3F81B8C672100CFCFA9 /* Build configuration list for PBXNativeTarget "XToolsDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -453,6 +464,7 @@
 				D7EFB3FA1B8C672100CFCFA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
